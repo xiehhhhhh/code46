@@ -1,5 +1,5 @@
 # code46
-package csgw;
+package csgw; 
 public class Test {
     public static void main(String[] args){
         //创建商品
